@@ -20,4 +20,8 @@ I have learnt a quite number of things from microsoft excel to pivot table to SQ
   Power BI [download here]{https://www.microsoft.com/en-us/power-platform/products/power-bi}
 
   `SQL
-  select 
+  select
+
+### my analysis
+
+  
