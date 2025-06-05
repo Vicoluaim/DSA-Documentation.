@@ -24,4 +24,6 @@ I have learnt a quite number of things from microsoft excel to pivot table to SQ
 
 ### my analysis
 
+
+
   
