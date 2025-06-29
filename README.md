@@ -11,7 +11,7 @@ I have learnt a quite number of things from microsoft excel to pivot table to SQ
 ### Data Source
 
 ### Tools used
-- MS excel fpr data cleaning [download here] {https:www.microsoft.com}
+- MS excel for data cleaning [download here] {https:www.microsoft.com}
   - for data cleaning
     - data cleaning for authencication
 - SQL
@@ -23,5 +23,4 @@ I have learnt a quite number of things from microsoft excel to pivot table to SQ
   select
 
 ### my analysis
-![birthday pics 2](https://github.com/user-attachments/assets/e1b59376-9a39-4cae-b640-a1d018d6a0e9)
-![birthday pics 3](https://github.com/user-attachments/assets/f1a6507e-2caf-4b97-a695-a38c1c1aa6c4)
+
